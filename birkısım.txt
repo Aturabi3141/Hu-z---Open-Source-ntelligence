@@ -1,0 +1,28 @@
+{"Url Name" : "Topmarks" , "Url" : " https://www.topmarks.com"} ((ADGUARDLA GİRERSEN ENGELLİYOR))
+{"Url Name" : "Tumblr Search" , "Url" : " http://www.tumblr.com/search"}
+{"Url Name" : "Snap Map" , "Url" : " https://map.snapchat.com"},
+{"Url Name" : "Shodan" , "Url" : " https://www.shodan.io"},
+{"Url Name" : "ZoomEye" , "Url" : " https://www.zoomeye.org"}
+{"Url Name" : "Global File Search" , "Url" : " http://globalfilesearch.com"}, ((ADGUARDLA GİRERSEN ENGELLİYOR))
+{"Url Name" : "MMNT" , "Url" : " http://www.mmnt.ru"},
+{"Url Name" : "Find Similar Sites" , "Url" : " http://www.findsimilarsites.com"},
+{"Url Name" : "SimilarSites" , "Url" : " http://www.similarsites.com"},
+{"Url Name" : "SimilarSiteSearch" , "Url" : " http://www.similarsitesearch.com"},
+{"Url Name" : "Aol" , "URL" : "http://search.aol.com,"},
+{"Url Name" : "Ask" , "URL" : "http://www.ask.com"},
+{"Url Name" : "Baidu" , "URL" : "http://www.baidu.com"},
+{"Url Name" : "Bing" , "URL" : "http://www.bing.com"},
+{"Url Name" : "DuckDuckGo" , "URL" : "https://duckduckgo.com"},
+{"Url Name" : "Ecosia" , "URL" : "https://www.ecosia.org"},
+{"Url Name" : "entireweb" , "URL" : "https://www.entireweb.com"},
+{"Url Name" : "Gigablast" , "URL" : "http://gigablast.com"},
+{"Url Name" : "Goodsearch" , "URL" : "http://www.goodsearch.com"},
+{"Url Name" : "Google Search" , "URL" : "http://www.google.com"},
+{"Url Name" : "Lycos" , "URL" : "http://www.lycos.com"},
+{"Url Name" : "MyWebSearch" , "URL" : "http://home.mywebsearch.com"},
+{"Url Name" : "SurfCanyon" , "URL" : "http://www.surfcanyon.com"},
+{"Url Name" : "Teoma", "URL" : "http://www.teoma.com"},
+{"Url Name" : "Wolfram Alpha" , "URL" : "http://www.wolframalpha.com"},
+{"Url Name" : "Yahoo! Search" , "URL" : "http://www.yahoo.com"},
+{"Url Name" : "Yandex" , "URL" : "https://www.yandex.com"}
+{"Url Name": "All-in-One" , "Url" : " http://all-io.net"},
